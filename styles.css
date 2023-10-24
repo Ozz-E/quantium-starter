@@ -1,0 +1,29 @@
+/* Header styling */
+.header {
+    text-align: center;
+    font-size: 24px;
+    color: #0038a9;
+    padding: 20px;
+    background-color: hsl(0, 84%, 75%);
+}
+
+/* Radio button styling */
+.radio-container {
+    margin: 20px;
+    background-color: #00cb00;
+}
+
+.radio-button {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+/* App container styling */
+.app-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: hwb(0 35% 27%);
+    border: 1px solid hsl(0, 100%, 88%);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
